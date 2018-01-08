@@ -5,7 +5,7 @@
 package com.snow;
 
 /**
- * @author wanghuiqi
+ * @author snow
  * @version 2017/10/11
  */
 public class StringBufferTest {

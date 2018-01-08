@@ -7,7 +7,7 @@ package com.snow;
 import java.io.UnsupportedEncodingException;
 
 /**
- * @author wanghuiqi
+ * @author snow
  * @version 2017/10/09
  */
 public class StringTest {

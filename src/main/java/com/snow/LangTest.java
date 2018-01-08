@@ -7,7 +7,7 @@ package com.snow;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author wanghuiqi
+ * @author snow
  * @version 2017/09/30
  */
 @Slf4j

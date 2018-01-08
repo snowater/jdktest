@@ -11,7 +11,7 @@ import java.util.ListIterator;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
- * @author hzwanghuiqi
+ * @author snow
  * @version 2017/12/22
  */
 @Slf4j

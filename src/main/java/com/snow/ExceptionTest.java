@@ -14,7 +14,7 @@ import java.util.Vector;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
- * @author hzwanghuiqi
+ * @author snow
  * @version 2017/12/20
  */
 @Slf4j

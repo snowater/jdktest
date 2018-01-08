@@ -5,7 +5,7 @@
 package com.snow;
 
 /**
- * @author hzwanghuiqi
+ * @author snow
  * @version 2017/10/13
  */
 public class IntegerTest {

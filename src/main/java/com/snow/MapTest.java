@@ -9,7 +9,7 @@ import java.util.Hashtable;
 import java.util.Map;
 
 /**
- * @author hzwanghuiqi
+ * @author snow
  * @version 2017/10/27
  */
 public class MapTest {

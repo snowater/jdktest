@@ -15,7 +15,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author hzwanghuiqi
+ * @author snow
  * @version 2017/12/25
  */
 @Slf4j

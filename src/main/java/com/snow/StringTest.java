@@ -13,7 +13,7 @@ import java.io.UnsupportedEncodingException;
 public class StringTest {
     public static void main(String[] args) {
 //        test1();
-//        test2();
+        test2();
         test3();
         test4();
     }
@@ -76,6 +76,7 @@ public class StringTest {
     }
 
     public static void test2() {
+        System.out.println("2----------------------------------------");
         String str1 = "a";
         String str2 = "b";
         String str3 = "ab";
@@ -89,21 +90,26 @@ public class StringTest {
         System.out.println(str4.intern() == str3);
         System.out.println(str5.intern() == str3);
         System.out.println(str6.intern() == str3);
+        System.out.println("2----------------------------------------");
     }
 
     public static void test3() {
+        System.out.println("3----------------------------------------");
         String s3 = new String("1") + new String("1");
         String s4 = "11";
         s3.intern(); // 此处调用并不会改变s3的地址
         System.out.println(s3 == s4);
         System.out.println(s3.intern() == s4);
+        System.out.println("3----------------------------------------");
     }
 
     public static void test4() {
+        System.out.println("4----------------------------------------");
         String s3 = new String("1") + new String("1");
         s3.intern(); // 此处调用并不会改变s3的地址
         String s4 = "11";
         System.out.println(s3 == s4);
         System.out.println(s3.intern() == s4);
+        System.out.println("4----------------------------------------");
     }
 }
